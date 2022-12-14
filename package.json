@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cypress": "^12.1.0"
+  },
+  "name": "todo-list",
+  "description": "A pretty TODO List with Javascript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
